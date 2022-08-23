@@ -1,7 +1,27 @@
 #navigation{
     color: red;
-    
+
 }
 h2{
     color: seagreen;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: seagreen;
+
+}
+
+#Home{
+    color: black;
+}
+
+#GameIplay{
+    color: #005653;
+    background-color: #97B8BD;
+    text-align: center;
 }
