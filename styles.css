@@ -21,7 +21,15 @@ a{
 }
 
 #GameIplay{
-    color: #005653;
-    background-color: #97B8BD;
+    color: #ffebcd;
     text-align: center;
+}
+
+#GameIplayed{
+    color: #ffebcd;
+    text-align: center;
+}
+
+.bar{
+    color: #006d5b;
 }
