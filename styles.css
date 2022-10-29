@@ -4,6 +4,8 @@ body {
 	font-family: 'Noto Sans JP', sans-serif;
 	padding: 0 2%;
 	margin: 0;
+    background-color: #0a5c51;
+    color: azure;
 }
 
 nav {
@@ -11,7 +13,7 @@ nav {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: center;
-	background-color: white;
+	background-color: #0a5c51;
 	position: sticky;
 	top: 0;
 }
@@ -108,13 +110,17 @@ nav ul li:hover {
 	color: rgb(145, 145, 145);
 }
 
+.projects-section{
+    background-color: 5d4e43;
+}
+
 footer {
 	margin-top: 5%;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	padding: 10px;
-	background-color: #000;
+	background-color: #179f9b;
 	color: white;
 }
 footer .colonne p {
